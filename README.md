@@ -13,6 +13,11 @@ ___
 #### United States
 - [U.S. Department of Agriculture Economic Research Service County Typology Codes](https://bit.io/bitdotio/county_typology_codes?utm_source=github&utm_medium=social&utm_campaign=publicdata-county-typology) (Added June 27, 2022)
 
+### Politics
+#### United States
+#### Global
+- [Partisal Electoral Interventions by the Great Powers](https://bit.io/bitdotio/peig?utm_source=github&utm_medium=social&utm_campaign=publicdata-peig) (Added July 13, 2022)
+
 ### Population Statistics
 #### United States
 - [Most Common Surnames in the United States Decennial Census (1990, 2000, 2010)](https://bit.io/bitdotio/census-surnames?utm_source=github&utm_medium=social&utm_campaign=publicdata-surnames) (Added June 27, 2022)
