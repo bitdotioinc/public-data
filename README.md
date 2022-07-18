@@ -3,9 +3,11 @@ A directory of Public Data Sources on bit.io
 ___
 
 ## Topics
-### Economy
-#### United States
+### Economy & Business
+#### United States Economy
 - [U.S. Department of Agriculture Economic Research Service County Typology Codes](https://bit.io/bitdotio/county_typology_codes?utm_source=github&utm_medium=social&utm_campaign=publicdata-county-typology) (Added June 27, 2022)
+#### Business
+- [CEO Dismissals](https://bit.io/bitdotio/ceo_dismissals?utm_source=github&utm_medium=social&utm_campaign=publicdata-who-tobacco-use) (Added July 18, 2022)
 
 ### Health
 #### Global
