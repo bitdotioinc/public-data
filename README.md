@@ -8,10 +8,11 @@ ___
 - [U.S. Department of Agriculture Economic Research Service County Typology Codes](https://bit.io/bitdotio/county_typology_codes?utm_source=github&utm_medium=social&utm_campaign=publicdata-county-typology) (Added June 27, 2022)
 #### Business
 - [CEO Dismissals](https://bit.io/bitdotio/ceo_dismissals?utm_source=github&utm_medium=social&utm_campaign=publicdata-ceo-dismissals) (Added July 18, 2022)
-
+- [Where College Grads Go: Measuring College-Specific Labor Markets for Graduates (2010-2018)](https://bit.io/bitdotio/pubdata5) (Added July 22, 2022)
 ### Health
 #### Global
 - [World Health Organization Tobacco Use Data](https://bit.io/bitdotio/who_tobacco_use?utm_source=github&utm_medium=social&utm_campaign=publicdata-who-tobacco-use) (Added July 14, 2022)
+- [The World Health Organization's Disease Outbreak News (1996-2019): A Retrospective Database](https://bit.io/bitdotio/pubdata6) (Added July 22, 2022)
 
 ### Politics
 #### United States
@@ -21,7 +22,8 @@ ___
 ### Population Statistics
 #### United States
 - [Most Common Surnames in the United States Decennial Census (1990, 2000, 2010)](https://bit.io/bitdotio/census-surnames?utm_source=github&utm_medium=social&utm_campaign=publicdata-surnames) (Added June 27, 2022)
-
+- [Top 200 Most Popular Given Names for Male and Female Babies Born (1990s, 2000s, 2010s)](https://bit.io/bitdotio/pubdata11) (Added July 22, 2022)
+- [County-By-Month Distances to Nearest Abortion Provider in the United States (2009-2021)](https://bit.io/bitdotio/pubdata6c) (Added July 22, 2022)
 
 ### Technology
 - [Most Powerful Supercomputers in the World](https://bit.io/bitdotio/top500_supercomputers?utm_source=github&utm_medium=social&utm_campaign=publicdata-supercomputers) (Added June 27, 2022)
@@ -29,3 +31,5 @@ ___
 ### Transportation
 #### United States
 - [National Highway Traffic Safety Administration Data on Collisions involving Automated Driving Systems (ADS)](https://bit.io/bitdotio/nhtsa_ads_crashes?utm_source=github&utm_medium=social&utm_campaign=publicdata-nhtsa) (Added June 22, 2022)
+- [Electric Vehicle Registrations by State (2021) and the Change in US Vehicle Registration Counts (2016-2020)](https://bit.io/bitdotio/pubdata12) (Added July 22, 2022)
+- [Average Range and Efficiency of US Electric Vehicles (2002-2021)](https://bit.io/bitdotio/pubdata14) (Added July 22, 2022)
