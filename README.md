@@ -10,6 +10,8 @@ ___
 - [CEO Dismissals](https://bit.io/bitdotio/ceo_dismissals?utm_source=github&utm_medium=social&utm_campaign=publicdata-ceo-dismissals) (Added July 18, 2022)
 - [Where College Grads Go: Measuring College-Specific Labor Markets for Graduates (2010-2018)](https://bit.io/bitdotio/grads-on-the-go?utm_source=github&utm_medium=social&utm_campaign=grads-on-the-go) (Added July 22, 2022)
 ### Health
+#### United States
+- [County-By-Month Distances to Nearest Abortion Provider in the United States (2009-2021)](https://bit.io/bitdotio/abortion-provider-dist?utm_source=github&utm_medium=social&utm_campaign=abortion-provider-dist) (Added July 22, 2022)
 #### Global
 - [World Health Organization Tobacco Use Data](https://bit.io/bitdotio/who_tobacco_use?utm_source=github&utm_medium=social&utm_campaign=publicdata-who-tobacco-use) (Added July 14, 2022)
 - [The World Health Organization's Disease Outbreak News (1996-2019): A Retrospective Database](https://bit.io/bitdotio/disease-outbreak-news?utm_source=github&utm_medium=social&utm_campaign=disease-outbreak-news) (Added July 22, 2022)
@@ -23,7 +25,7 @@ ___
 #### United States
 - [Most Common Surnames in the United States Decennial Census (1990, 2000, 2010)](https://bit.io/bitdotio/census-surnames?utm_source=github&utm_medium=social&utm_campaign=publicdata-surnames) (Added June 27, 2022)
 - [Top 200 Most Popular Given Names for Male and Female Babies Born (1990s, 2000s, 2010s)](https://bit.io/bitdotio/ssa-given-names?utm_source=github&utm_medium=social&utm_campaign=ssa-given-names) (Added July 22, 2022)
-- [County-By-Month Distances to Nearest Abortion Provider in the United States (2009-2021)](https://bit.io/bitdotio/abortion-provider-dist?utm_source=github&utm_medium=social&utm_campaign=abortion-provider-dist) (Added July 22, 2022)
+
 
 ### Technology
 - [Most Powerful Supercomputers in the World](https://bit.io/bitdotio/top500_supercomputers?utm_source=github&utm_medium=social&utm_campaign=publicdata-supercomputers) (Added June 27, 2022)
