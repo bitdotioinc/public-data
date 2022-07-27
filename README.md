@@ -20,7 +20,7 @@ ___
 #### United States
 #### Global
 - [Partisal Electoral Interventions by the Great Powers](https://bit.io/bitdotio/peig?utm_source=github&utm_medium=social&utm_campaign=publicdata-peig) (Added July 13, 2022)
-- [Global Data Barometer Report for G7 Countries (May 2019 - May 2021)](https://bit.io/bitdotio/pubdata7) (Added July 27, 2022)
+- [G7 Countries' Global Data Barometer Report (May 2019 - May 2021)](https://bit.io/bitdotio/pubdata7) (Added July 27, 2022)
 
 ### Population Statistics
 #### United States
