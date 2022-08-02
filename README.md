@@ -8,10 +8,10 @@ ___
 - [U.S. Department of Agriculture Economic Research Service County Typology Codes](https://bit.io/bitdotio/county_typology_codes?utm_source=github&utm_medium=social&utm_campaign=publicdata-county-typology) (Added June 27, 2022)
 - [U.S. Treasury-Owned Gold (January 2012 - June 2022)](https://bit.io/bitdotio/us-treasury-gold?utm_source=github&utm_medium=social&utm_campaign=us-treasury-gold) (Added July 27, 2022)
 - [Housing Vacancies and Homeownership (CPS/HVS) for the 75 Largest Metropolitan Statistical Areas: 2015 - 2021](https://bit.io/bitdotio/census-housing-vacancy?utm_source=github&utm_medium=social&utm_campaign=census-housing-vacancy) (Added July 26, 2022)
+- [U.S. Historical Debt Outstanding (1790-2021)](https://bit.io/bitdotio/us-historical-debt?utm_source=github&utm_medium=social&utm_campaign=us-historical-debt) (Added July 28, 2022)
 #### Business
 - [CEO Dismissals](https://bit.io/bitdotio/ceo_dismissals?utm_source=github&utm_medium=social&utm_campaign=publicdata-ceo-dismissals) (Added July 18, 2022)
 - [Where College Grads Go: Measuring College-Specific Labor Markets for Graduates (2010-2018)](https://bit.io/bitdotio/grads-on-the-go?utm_source=github&utm_medium=social&utm_campaign=grads-on-the-go) (Added July 22, 2022)
-- [U.S. Historical Debt Outstanding (1790-2021)](https://bit.io/bitdotio/us-historical-debt?utm_source=github&utm_medium=social&utm_campaign=us-historical-debt) (Added July 28, 2022)
 ### Health
 #### United States
 - [County-By-Month Distances to Nearest Abortion Provider in the United States (2009-2021)](https://bit.io/bitdotio/abortion-provider-dist?utm_source=github&utm_medium=social&utm_campaign=abortion-provider-dist) (Added July 22, 2022)
