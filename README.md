@@ -9,7 +9,7 @@ ___
 #### Business
 - [CEO Dismissals](https://bit.io/bitdotio/ceo_dismissals?utm_source=github&utm_medium=social&utm_campaign=publicdata-ceo-dismissals) (Added July 18, 2022)
 - [Where College Grads Go: Measuring College-Specific Labor Markets for Graduates (2010-2018)](https://bit.io/bitdotio/grads-on-the-go?utm_source=github&utm_medium=social&utm_campaign=grads-on-the-go) (Added July 22, 2022)
-- [U.S. Historical Debt Outstanding (1790-2021)](https://bit.io/bitdotio/pubdata17) (Added July 28, 2022)
+- [U.S. Historical Debt Outstanding (1790-2021)](https://bit.io/bitdotio/us-historical-debt?utm_source=github&utm_medium=social&utm_campaign=us-historical-debt) (Added July 28, 2022)
 ### Health
 #### United States
 - [County-By-Month Distances to Nearest Abortion Provider in the United States (2009-2021)](https://bit.io/bitdotio/abortion-provider-dist?utm_source=github&utm_medium=social&utm_campaign=abortion-provider-dist) (Added July 22, 2022)
