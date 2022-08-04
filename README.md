@@ -12,6 +12,7 @@ ___
 #### Business
 - [CEO Dismissals](https://bit.io/bitdotio/ceo_dismissals?utm_source=github&utm_medium=social&utm_campaign=publicdata-ceo-dismissals) (Added July 18, 2022)
 - [Where College Grads Go: Measuring College-Specific Labor Markets for Graduates (2010-2018)](https://bit.io/bitdotio/grads-on-the-go?utm_source=github&utm_medium=social&utm_campaign=grads-on-the-go) (Added July 22, 2022)
+- [Employment Change in the U.S from 1993 until 2021: Categorized Based on Educational Attainment](https://bit.io/bitdotio/pubdata19) (Added August 4, 2022)
 ### Health
 #### United States
 - [County-By-Month Distances to Nearest Abortion Provider in the United States (2009-2021)](https://bit.io/bitdotio/abortion-provider-dist?utm_source=github&utm_medium=social&utm_campaign=abortion-provider-dist) (Added July 22, 2022)
