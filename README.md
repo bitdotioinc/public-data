@@ -15,6 +15,7 @@ ___
 ### Health
 #### United States
 - [County-By-Month Distances to Nearest Abortion Provider in the United States (2009-2021)](https://bit.io/bitdotio/abortion-provider-dist?utm_source=github&utm_medium=social&utm_campaign=abortion-provider-dist) (Added July 22, 2022)
+- [HIV in U.S. State and Federal Prison (1999 - 2020)](https://bit.io/bitdotio/doj-hiv-prisons?utm_source=github&utm_medium=social&utm_campaign=doj-hiv-prisons) (Added August 1, 2022)
 - [Federal Deaths in Custody and During Arrest in the United Sates (2016 – 2020)](https://bit.io/bitdotio/doj-deaths-custody?utm_source=github&utm_medium=social&utm_campaign=doj-deaths-custody) (Added August 8, 2022)
 - [Suicide in U.S. Local Jails and State and Federal Prisons, 2000–2019](https://bit.io/bitdotio/doj-prison-suicides?utm_source=github&utm_medium=social&utm_campaign=doj-prison-suicides) (Added August 8, 2022)
 #### Global
