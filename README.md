@@ -15,7 +15,7 @@ ___
 ### Health
 #### United States
 - [County-By-Month Distances to Nearest Abortion Provider in the United States (2009-2021)](https://bit.io/bitdotio/abortion-provider-dist?utm_source=github&utm_medium=social&utm_campaign=abortion-provider-dist) (Added July 22, 2022)
-- [Federal Deaths in Custody and During Arrest in the United Sates (2016 – 2020)](https://bit.io/bitdotio/pubdata20) (Added August 8, 2022)
+- [Federal Deaths in Custody and During Arrest in the United Sates (2016 – 2020)](https://bit.io/bitdotio/doj-deaths-custody?utm_source=github&utm_medium=social&utm_campaign=doj-deaths-custody) (Added August 8, 2022)
 #### Global
 - [World Health Organization Tobacco Use Data](https://bit.io/bitdotio/who_tobacco_use?utm_source=github&utm_medium=social&utm_campaign=publicdata-who-tobacco-use) (Added July 14, 2022)
 - [The World Health Organization's Disease Outbreak News (1996-2019): A Retrospective Database](https://bit.io/bitdotio/disease-outbreak-news?utm_source=github&utm_medium=social&utm_campaign=disease-outbreak-news) (Added July 22, 2022)
