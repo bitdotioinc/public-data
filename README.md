@@ -41,4 +41,5 @@ ___
 - [National Highway Traffic Safety Administration Data on Collisions involving Automated Driving Systems (ADS)](https://bit.io/bitdotio/nhtsa_ads_crashes?utm_source=github&utm_medium=social&utm_campaign=publicdata-nhtsa) (Added June 22, 2022)
 - [Electric Vehicle Registrations by State (2021) and the Change in US Vehicle Registration Counts (2016-2020)](https://bit.io/bitdotio/ev-registration?utm_source=github&utm_medium=social&utm_campaign=ev-registration) (Added July 22, 2022)
 - [Average Range and Efficiency of US Electric Vehicles (2002-2021)](https://bit.io/bitdotio/usdoe-ev-range?utm_source=github&utm_medium=social&utm_campaign=usdoe-ev-range) (Added July 22, 2022)
+- [Average Retail Fuel Prices in the United States from 2000 to 2022](https://bit.io/bitdotio/afdc-retail-fuel-prices?utm_source=github&utm_medium=social&utm_campaign=afdc-retail-fuel-prices) (Added August 7, 2021)
 - [U.S. Public and Private Alternative Fueling Stations by Fuel Type (1992-2021)](https://bit.io/bitdotio/afdc-fueling-stations?utm_source=github&utm_medium=social&utm_campaign=afdc-fueling-stations) (Added August 8, 2022)
