@@ -15,6 +15,8 @@ ___
 ### Health
 #### United States
 - [County-By-Month Distances to Nearest Abortion Provider in the United States (2009-2021)](https://bit.io/bitdotio/abortion-provider-dist?utm_source=github&utm_medium=social&utm_campaign=abortion-provider-dist) (Added July 22, 2022)
+- [Federal Deaths in Custody and During Arrest in the United Sates (2016 – 2020)](https://bit.io/bitdotio/doj-deaths-custody?utm_source=github&utm_medium=social&utm_campaign=doj-deaths-custody) (Added August 8, 2022)
+- [Suicide in U.S. Local Jails and State and Federal Prisons, 2000–2019](https://bit.io/bitdotio/doj-prison-suicides?utm_source=github&utm_medium=social&utm_campaign=doj-prison-suicides) (Added August 8, 2022)
 #### Global
 - [World Health Organization Tobacco Use Data](https://bit.io/bitdotio/who_tobacco_use?utm_source=github&utm_medium=social&utm_campaign=publicdata-who-tobacco-use) (Added July 14, 2022)
 - [The World Health Organization's Disease Outbreak News (1996-2019): A Retrospective Database](https://bit.io/bitdotio/disease-outbreak-news?utm_source=github&utm_medium=social&utm_campaign=disease-outbreak-news) (Added July 22, 2022)
@@ -40,3 +42,4 @@ ___
 - [Electric Vehicle Registrations by State (2021) and the Change in US Vehicle Registration Counts (2016-2020)](https://bit.io/bitdotio/ev-registration?utm_source=github&utm_medium=social&utm_campaign=ev-registration) (Added July 22, 2022)
 - [Average Range and Efficiency of US Electric Vehicles (2002-2021)](https://bit.io/bitdotio/usdoe-ev-range?utm_source=github&utm_medium=social&utm_campaign=usdoe-ev-range) (Added July 22, 2022)
 - [Average Retail Fuel Prices in the United States from 2000 to 2022](https://bit.io/bitdotio/afdc-retail-fuel-prices?utm_source=github&utm_medium=social&utm_campaign=afdc-retail-fuel-prices) (Added August 7, 2021)
+- [U.S. Public and Private Alternative Fueling Stations by Fuel Type (1992-2021)](https://bit.io/bitdotio/afdc-fueling-stations?utm_source=github&utm_medium=social&utm_campaign=afdc-fueling-stations) (Added August 8, 2022)
