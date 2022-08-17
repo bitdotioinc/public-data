@@ -9,6 +9,13 @@ ___
 - [U.S. Treasury-Owned Gold (January 2012 - June 2022)](https://bit.io/bitdotio/us-treasury-gold?utm_source=github&utm_medium=social&utm_campaign=us-treasury-gold) (Added July 27, 2022)
 - [Housing Vacancies and Homeownership (CPS/HVS) for the 75 Largest Metropolitan Statistical Areas: 2015 - 2021](https://bit.io/bitdotio/census-housing-vacancy?utm_source=github&utm_medium=social&utm_campaign=census-housing-vacancy) (Added July 26, 2022)
 - [U.S. Historical Debt Outstanding (1790-2021)](https://bit.io/bitdotio/us-historical-debt?utm_source=github&utm_medium=social&utm_campaign=us-historical-debt) (Added July 28, 2022)
+- [Unemployment Rate in the United States (1948-2022)](https://bit.io/bitdotio/pubdata33) (Added August 16, 2022)
+- [Federal Minimum Wage Rate under the Federal Fair Labor Standards Act (1968-2021)](https://bit.io/bitdotio/pubdata32) (Added August 16, 2022)
+- [Real Median Household Income in the United States](https://bit.io/bitdotio/pubdata31) (Added August 16, 2022)
+- [U.S. Exports of Goods and Services](https://bit.io/bitdotio/pubdata30) (Added August 16, 2022)
+- [U.S. Imports of Goods and Services](https://bit.io/bitdotio/pubdata29) (Added August 16, 2022)
+- [Total Real Gross Domestic Product for United States Metropolitan Portion](https://bit.io/bitdotio/pubdata28) (Added August 16, 2022)
+
 #### Business
 - [CEO Dismissals](https://bit.io/bitdotio/ceo_dismissals?utm_source=github&utm_medium=social&utm_campaign=publicdata-ceo-dismissals) (Added July 18, 2022)
 - [Where College Grads Go: Measuring College-Specific Labor Markets for Graduates (2010-2018)](https://bit.io/bitdotio/grads-on-the-go?utm_source=github&utm_medium=social&utm_campaign=grads-on-the-go) (Added July 22, 2022)
@@ -33,10 +40,11 @@ ___
 #### United States
 - [Most Common Surnames in the United States Decennial Census (1990, 2000, 2010)](https://bit.io/bitdotio/census-surnames?utm_source=github&utm_medium=social&utm_campaign=publicdata-surnames) (Added June 27, 2022)
 - [Top 200 Most Popular Given Names for Male and Female Babies Born (1990s, 2000s, 2010s)](https://bit.io/bitdotio/ssa-given-names?utm_source=github&utm_medium=social&utm_campaign=ssa-given-names) (Added July 22, 2022)
-
+- [Migration Pattern of Young U.S. Residents](https://bit.io/bitdotio/pubdata27) (Added August 16, 2022)
 
 ### Technology
 - [Most Powerful Supercomputers in the World](https://bit.io/bitdotio/top500_supercomputers?utm_source=github&utm_medium=social&utm_campaign=publicdata-supercomputers) (Added June 27, 2022)
+- [The Chip Dataset](https://bit.io/bitdotio/pubdata24) (Added August 16, 2022)
 
 ### Transportation
 #### United States
