@@ -14,12 +14,10 @@ ___
 - [USDA Food Price Outlook, Consumer Price Index](https://bit.io/bitdotio/usda-food-price-outlook) (Added August 11, 2022)
 - [Sahm Rule Recession Indicator](https://bit.io/bitdotio/sahm-indicator) (Added August 11, 2022)
 - [Median Sales Price of Houses Sold in the United States] (Added August 11, 2022)
-- [Unemployment Rate in the United States (1948-2022)](https://bit.io/bitdotio/pubdata33) (Added August 16, 2022)
-- [Federal Minimum Wage Rate under the Federal Fair Labor Standards Act (1968-2021)](https://bit.io/bitdotio/pubdata32) (Added August 16, 2022)
-- [Real Median Household Income in the United States](https://bit.io/bitdotio/pubdata31) (Added August 16, 2022)
-- [U.S. Exports of Goods and Services](https://bit.io/bitdotio/pubdata30) (Added August 16, 2022)
-- [U.S. Imports of Goods and Services](https://bit.io/bitdotio/pubdata29) (Added August 16, 2022)
-- [Total Real Gross Domestic Product for United States Metropolitan Portion](https://bit.io/bitdotio/pubdata28) (Added August 16, 2022)
+- [Unemployment Rate in the United States (1948-2022)](https://bit.io/bitdotio/bls-unemployment-rate?utm_source=github&utm_medium=social&utm_campaign=bls-unemployment-rate) (Added August 16, 2022)
+- [Federal Minimum Wage Rate under the Federal Fair Labor Standards Act (1968-2021)](https://bit.io/bitdotio/dol-fed-min-wage?utm_source=github&utm_medium=social&utm_campaign=dol-fed-min-wage) (Added August 16, 2022)
+- [Real Median Household Income in the United States](https://bit.io/bitdotio/census-median-hh-income?utm_source=github&utm_medium=social&utm_campaign=census-median-hh-income) (Added August 16, 2022)
+- [Total Real Gross Domestic Product for United States Metropolitan Portion](https://bit.io/bitdotio/bea-total-metro-gdp?utm_source=github&utm_medium=social&utm_campaign=bea-total-metro-gdp) (Added August 16, 2022)
 
 #### Business
 - [CEO Dismissals](https://bit.io/bitdotio/ceo_dismissals?utm_source=github&utm_medium=social&utm_campaign=publicdata-ceo-dismissals) (Added July 18, 2022)
@@ -45,11 +43,11 @@ ___
 #### United States
 - [Most Common Surnames in the United States Decennial Census (1990, 2000, 2010)](https://bit.io/bitdotio/census-surnames?utm_source=github&utm_medium=social&utm_campaign=publicdata-surnames) (Added June 27, 2022)
 - [Top 200 Most Popular Given Names for Male and Female Babies Born (1990s, 2000s, 2010s)](https://bit.io/bitdotio/ssa-given-names?utm_source=github&utm_medium=social&utm_campaign=ssa-given-names) (Added July 22, 2022)
-- [Migration Pattern of Young U.S. Residents](https://bit.io/bitdotio/pubdata27) (Added August 16, 2022)
+- [Migration Pattern of Young U.S. Residents](https://bit.io/bitdotio/us-migration-patterns?utm_source=github&utm_medium=social&utm_campaign=us-migration-patterns) (Added August 16, 2022)
 
 ### Technology
 - [Most Powerful Supercomputers in the World](https://bit.io/bitdotio/top500_supercomputers?utm_source=github&utm_medium=social&utm_campaign=publicdata-supercomputers) (Added June 27, 2022)
-- [The Chip Dataset](https://bit.io/bitdotio/pubdata24) (Added August 16, 2022)
+- [The Chip Dataset](https://bit.io/bitdotio/cpu-gpu-chips?utm_source=github&utm_medium=social&utm_campaign=cpu-gpu-chips) (Added August 16, 2022)
 
 ### Transportation
 #### United States
