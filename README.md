@@ -13,7 +13,7 @@ ___
 - [Bureau of Labor Statistics Consumer Price Index](https://bit.io/bitdotio/bls-cpi) (Added August 11, 2022)
 - [USDA Food Price Outlook, Consumer Price Index](https://bit.io/bitdotio/usda-food-price-outlook) (Added August 11, 2022)
 - [Sahm Rule Recession Indicator](https://bit.io/bitdotio/sahm-indicator) (Added August 11, 2022)
-- [Median Sales Price of Houses Sold in the United States] (Added August 11, 2022)
+- [Median Sales Price of Houses Sold in the United States](https://bit.io/bitdotio/census-home-sale-prices?utm_source=github&utm_medium=social&utm_campaign=census-home-sale-prices) (Added August 11, 2022)
 - [Unemployment Rate in the United States (1948-2022)](https://bit.io/bitdotio/bls-unemployment-rate?utm_source=github&utm_medium=social&utm_campaign=bls-unemployment-rate) (Added August 16, 2022)
 - [Federal Minimum Wage Rate under the Federal Fair Labor Standards Act (1968-2021)](https://bit.io/bitdotio/dol-fed-min-wage?utm_source=github&utm_medium=social&utm_campaign=dol-fed-min-wage) (Added August 16, 2022)
 - [Real Median Household Income in the United States](https://bit.io/bitdotio/census-median-hh-income?utm_source=github&utm_medium=social&utm_campaign=census-median-hh-income) (Added August 16, 2022)
