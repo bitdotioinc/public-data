@@ -23,6 +23,12 @@ ___
 - [CEO Dismissals](https://bit.io/bitdotio/ceo_dismissals?utm_source=github&utm_medium=social&utm_campaign=publicdata-ceo-dismissals) (Added July 18, 2022)
 - [Where College Grads Go: Measuring College-Specific Labor Markets for Graduates (2010-2018)](https://bit.io/bitdotio/grads-on-the-go?utm_source=github&utm_medium=social&utm_campaign=grads-on-the-go) (Added July 22, 2022)
 - [Employment Change in the U.S from 1993 until 2021: Categorized Based on Educational Attainment](https://bit.io/bitdotio/qwi-employment-edu?utm_source=github&utm_medium=social&utm_campaign=qwi-employment-edu) (Added August 4, 2022)
+
+### Environment and Climate
+#### Global
+- [Atmospheric CO2 over the Past 800,000 years](https://bit.io/bitdotio/noaa-historical-co2?utm_source=github&utm_medium=social&utm_campaign=noaa-historical-co2)
+- [Daily, Monthly, and Annual Average Atmospheric CO2 Concentrations](https://bit.io/bitdotio/noaa-global-co2-trends?utm_source=github&utm_medium=social&utm_campaign=noaa-global-co2-trends)
+
 ### Health
 #### United States
 - [County-By-Month Distances to Nearest Abortion Provider in the United States (2009-2021)](https://bit.io/bitdotio/abortion-provider-dist?utm_source=github&utm_medium=social&utm_campaign=abortion-provider-dist) (Added July 22, 2022)
