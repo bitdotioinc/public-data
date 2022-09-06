@@ -18,10 +18,10 @@ ___
 - [Federal Minimum Wage Rate under the Federal Fair Labor Standards Act (1968-2021)](https://bit.io/bitdotio/dol-fed-min-wage?utm_source=github&utm_medium=social&utm_campaign=dol-fed-min-wage) (Added August 16, 2022)
 - [Real Median Household Income in the United States](https://bit.io/bitdotio/census-median-hh-income?utm_source=github&utm_medium=social&utm_campaign=census-median-hh-income) (Added August 16, 2022)
 - [Total Real Gross Domestic Product for United States Metropolitan Portion](https://bit.io/bitdotio/bea-total-metro-gdp?utm_source=github&utm_medium=social&utm_campaign=bea-total-metro-gdp) (Added August 16, 2022)
-- [Net U.S. Acquisition of Financial Assets Excluding Financial Aerivatives (Net Increase in Assets / Financial Outflow (+)) 1991-2021](https://bit.io/bitdotio/pubdata22) (Added August 29, 2022)
-- [U.S. Exports and Imports of Goods and Services (1999-2021)](https://bit.io/bitdotio/pubdata29) (Added September 1, 2022)
-- [Tracking Paycheck Protection Program (PPP): Companies Approved for Federal Loans](https://bit.io/bitdotio/pubdata30) (Added September 1, 2022)
-- [US State Government Tax Collections (1902-2021)](https://bit.io/bitdotio/pubdata35) (Added September 1, 2022)
+- [Net U.S. Acquisition of Financial Assets Excluding Financial Aerivatives (Net Increase in Assets / Financial Outflow (+)) 1991-2021](https://bit.io/bitdotio/bea_financial_assets?utm_source=github&utm_medium=social&utm_campaign=bea_financial_assets) (Added August 29, 2022)
+- [U.S. Exports and Imports of Goods and Services (1999-2021)](https://bit.io/bitdotio/bea_imports_exports?utm_source=github&utm_medium=social&utm_campaign=bea_imports_exports) (Added September 1, 2022)
+- [Tracking Paycheck Protection Program (PPP): Companies Approved for Federal Loans](https://bit.io/bitdotio/sba_ppp_loans?utm_source=github&utm_medium=social&utm_campaign=sba_ppp_loans) (Added September 1, 2022)
+- [US State Government Tax Collections (1902-2021)](https://bit.io/bitdotio/us-state-taxes?utm_source=github&utm_medium=social&utm_campaign=us-state-taxes) (Added September 1, 2022)
 
 #### Business
 - [CEO Dismissals](https://bit.io/bitdotio/ceo_dismissals?utm_source=github&utm_medium=social&utm_campaign=publicdata-ceo-dismissals) (Added July 18, 2022)
