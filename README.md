@@ -1,5 +1,5 @@
 # Open Data on bit.io
-A directory of Public Data Sources on bit.io
+A directory of Public Data Sources on [bit.io](https://bit.io)
 ___
 
 ## Topics
