@@ -40,12 +40,16 @@ ___
 - [Answers to the IPIP Big Five Factor Markers](https://bit.io/bitdotio/openpsych-big5?utm_source=github&utm_medium=social&utm_campaign=openpsych-big5) (Added September 15, 2022)
 - [The Big Five and Beyond: Which Personality Traits Do Predict Movie and Reading Preferences?](https://bit.io/bitdotio/big5-movies-books?utm_source=github&utm_medium=social&utm_campaign=big5-movies-books)  (Added September 15, 2022)
 - [(MBTI) Myers-Briggs Personality Type Dataset](https://bit.io/bitdotio/mbti-forum-posts?utm_source=github&utm_medium=social&utm_campaign=mbti-forum-posts) (Added September 15, 2022)
+- [List Of The Largest Fast Food Restaurant Chains](https://bit.io/bitdotio/wiki_fast_food_chains?utm_source=github&utm_medium=social&utm_campaign=wiki_fast_food_chains) (Added September 22, 2022)
 
 #### United States
 - [County-By-Month Distances to Nearest Abortion Provider in the United States (2009-2021)](https://bit.io/bitdotio/abortion-provider-dist?utm_source=github&utm_medium=social&utm_campaign=abortion-provider-dist) (Added July 22, 2022)
 - [HIV in U.S. State and Federal Prison (1999 - 2020)](https://bit.io/bitdotio/doj-hiv-prisons?utm_source=github&utm_medium=social&utm_campaign=doj-hiv-prisons) (Added August 1, 2022)
 - [Federal Deaths in Custody and During Arrest in the United Sates (2016 – 2020)](https://bit.io/bitdotio/doj-deaths-custody?utm_source=github&utm_medium=social&utm_campaign=doj-deaths-custody) (Added August 8, 2022)
 - [Suicide in U.S. Local Jails and State and Federal Prisons, 2000–2019](https://bit.io/bitdotio/doj-prison-suicides?utm_source=github&utm_medium=social&utm_campaign=doj-prison-suicides) (Added August 8, 2022)
+- [Fast Food Restaurants Across America](https://bit.io/bitdotio/fast_food_america?utm_source=github&utm_medium=social&utm_campaign=fast_food_america) (Added September 22, 2022)
+- [The QSR 50 Big Chart](https://bit.io/bitdotio/qsr_50_big_2021?utm_source=github&utm_medium=social&utm_campaign=qsr_50_big_2021) (Added September 22, 2022)
+- [United States' Top-Grossing Chain Restaurants Nutrition](https://bit.io/bitdotio/menustat_nutrition?utm_source=github&utm_medium=social&utm_campaign=menustat_nutrition) (Added September 22, 2022)
 
 
 ### Politics
