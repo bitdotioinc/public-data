@@ -35,9 +35,9 @@ ___
 
 ### United States
 - [Spatial Wildfire Occurrence Data for the United States, 1992-2018](https://bit.io/bitdotio/pubdata58) (Added October 5, 2022)
-- [Total Wildland Fires and Burn By Acres (1983-2021)](https://bit.io/bitdotio/pubdata56) (Added October 5, 2022)
-- [WFIGS - 2022 Wildland Fire Locations to Date](https://bit.io/bitdotio/pubdata57) (Added October 5, 2022)
-- [U.S. Fire Perimeter Data](https://bit.io/bitdotio/pubdata55) (Added October 5, 2022)
+- [Total Wildland Fires and Burn By Acres (1983-2021)](https://bit.io/bitdotio/nifc_wildfire_acres?utm_source=github&utm_medium=social&utm_campaign=nifc_wildfire_acres) (Added October 5, 2022)
+- [WFIGS - 2022 Wildland Fire Locations to Date](https://bit.io/bitdotio/wfigs_fire_locations?utm_source=github&utm_medium=social&utm_campaign=wfigs_fire_locations) (Added October 5, 2022)
+- [U.S. Fire Perimeter Data](https://bit.io/bitdotio/nifc_fire_perimeter?utm_source=github&utm_medium=social&utm_campaign=nifc_fire_perimeter) (Added October 5, 2022)
 
 ### Health
 #### Global
