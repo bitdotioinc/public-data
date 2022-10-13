@@ -34,7 +34,7 @@ ___
 - [Daily, Monthly, and Annual Average Atmospheric CO2 Concentrations](https://bit.io/bitdotio/noaa-global-co2-trends?utm_source=github&utm_medium=social&utm_campaign=noaa-global-co2-trends) (Added September 1, 2022)
 
 ### United States
-- [Spatial Wildfire Occurrence Data for the United States, 1992-2018](https://bit.io/bitdotio/pubdata58) (Added October 5, 2022)
+- [Spatial Wildfire Occurrence Data for the United States, 1992-2018](https://bit.io/bitdotio/us_wildfires_spatial?utm_source=github&utm_medium=social&utm_campaign=us_wildfires_spatial) (Added October 5, 2022)
 - [Total Wildland Fires and Burn By Acres (1983-2021)](https://bit.io/bitdotio/nifc_wildfire_acres?utm_source=github&utm_medium=social&utm_campaign=nifc_wildfire_acres) (Added October 5, 2022)
 - [WFIGS - 2022 Wildland Fire Locations to Date](https://bit.io/bitdotio/wfigs_fire_locations?utm_source=github&utm_medium=social&utm_campaign=wfigs_fire_locations) (Added October 5, 2022)
 - [U.S. Fire Perimeter Data](https://bit.io/bitdotio/nifc_fire_perimeter?utm_source=github&utm_medium=social&utm_campaign=nifc_fire_perimeter) (Added October 5, 2022)
