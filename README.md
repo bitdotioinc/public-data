@@ -34,10 +34,6 @@ ___
 - [Daily, Monthly, and Annual Average Atmospheric CO2 Concentrations](https://bit.io/bitdotio/noaa-global-co2-trends?utm_source=github&utm_medium=social&utm_campaign=noaa-global-co2-trends) (Added September 1, 2022)
 
 #### United States
-- [Spatial Wildfire Occurrence Data for the United States, 1992-2018](https://bit.io/bitdotio/pubdata58) (Added October 5, 2022)
-- [Total Wildland Fires and Burn By Acres (1983-2021)](https://bit.io/bitdotio/pubdata56) (Added October 5, 2022)
-- [WFIGS - 2022 Wildland Fire Locations to Date](https://bit.io/bitdotio/pubdata57) (Added October 5, 2022)
-- [U.S. Fire Perimeter Data](https://bit.io/bitdotio/pubdata55) (Added October 5, 2022)
 
 ### Health
 #### Global
@@ -63,14 +59,14 @@ ___
 #### Global
 - [Partisal Electoral Interventions by the Great Powers](https://bit.io/bitdotio/peig?utm_source=github&utm_medium=social&utm_campaign=publicdata-peig) (Added July 13, 2022)
 - [G7 Countries' Global Data Barometer Report (May 2019 - May 2021)](https://bit.io/bitdotio/g7-data-barometer?utm_source=github&utm_medium=social&utm_campaign=g7-data-barometer) (Added July 27, 2022)
-- [Oil, Gas and Mining Payments to Governments Made by Companies](https://bit.io/bitdotio/pubdata10) (October 7, 2022)
+- [Oil, Gas and Mining Payments to Governments Made by Companies](https://bit.io/bitdotio/nat_resource_payments?utm_source=github&utm_medium=social&utm_campaign=nat_resource_payments) (October 7, 2022)
 
 ### Population Statistics
 #### United States
 - [Most Common Surnames in the United States Decennial Census (1990, 2000, 2010)](https://bit.io/bitdotio/census-surnames?utm_source=github&utm_medium=social&utm_campaign=publicdata-surnames) (Added June 27, 2022)
 - [Top 200 Most Popular Given Names for Male and Female Babies Born (1990s, 2000s, 2010s)](https://bit.io/bitdotio/ssa-given-names?utm_source=github&utm_medium=social&utm_campaign=ssa-given-names) (Added July 22, 2022)
 - [Migration Pattern of Young U.S. Residents](https://bit.io/bitdotio/us-migration-patterns?utm_source=github&utm_medium=social&utm_campaign=us-migration-patterns) (Added August 16, 2022)
-- [Educational Attainment in the United States By Age (2021)](https://bit.io/bitdotio/pubdata34) (Added October 7, 2022)
+- [Educational Attainment in the United States By Age (2021)](https://bit.io/bitdotio/census_ed_by_age?utm_source=github&utm_medium=social&utm_campaign=census_ed_by_age) (Added October 7, 2022)
 
 ### Technology
 - [Most Powerful Supercomputers in the World](https://bit.io/bitdotio/top500_supercomputers?utm_source=github&utm_medium=social&utm_campaign=publicdata-supercomputers) (Added June 27, 2022)
