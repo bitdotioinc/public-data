@@ -63,12 +63,14 @@ ___
 #### Global
 - [Partisal Electoral Interventions by the Great Powers](https://bit.io/bitdotio/peig?utm_source=github&utm_medium=social&utm_campaign=publicdata-peig) (Added July 13, 2022)
 - [G7 Countries' Global Data Barometer Report (May 2019 - May 2021)](https://bit.io/bitdotio/g7-data-barometer?utm_source=github&utm_medium=social&utm_campaign=g7-data-barometer) (Added July 27, 2022)
+- [Oil, Gas and Mining Payments to Governments Made by Companies](https://bit.io/bitdotio/nat_resource_payments?utm_source=github&utm_medium=social&utm_campaign=nat_resource_payments) (October 7, 2022)
 
 ### Population Statistics
 #### United States
 - [Most Common Surnames in the United States Decennial Census (1990, 2000, 2010)](https://bit.io/bitdotio/census-surnames?utm_source=github&utm_medium=social&utm_campaign=publicdata-surnames) (Added June 27, 2022)
 - [Top 200 Most Popular Given Names for Male and Female Babies Born (1990s, 2000s, 2010s)](https://bit.io/bitdotio/ssa-given-names?utm_source=github&utm_medium=social&utm_campaign=ssa-given-names) (Added July 22, 2022)
 - [Migration Pattern of Young U.S. Residents](https://bit.io/bitdotio/us-migration-patterns?utm_source=github&utm_medium=social&utm_campaign=us-migration-patterns) (Added August 16, 2022)
+- [Educational Attainment in the United States By Age (2021)](https://bit.io/bitdotio/census_ed_by_age?utm_source=github&utm_medium=social&utm_campaign=census_ed_by_age) (Added October 7, 2022)
 
 ### Technology
 - [Most Powerful Supercomputers in the World](https://bit.io/bitdotio/top500_supercomputers?utm_source=github&utm_medium=social&utm_campaign=publicdata-supercomputers) (Added June 27, 2022)
