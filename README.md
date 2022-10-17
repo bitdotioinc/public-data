@@ -33,8 +33,6 @@ ___
 - [Atmospheric CO2 over the Past 800,000 years](https://bit.io/bitdotio/noaa-historical-co2?utm_source=github&utm_medium=social&utm_campaign=noaa-historical-co2) (Added September 1, 2022)
 - [Daily, Monthly, and Annual Average Atmospheric CO2 Concentrations](https://bit.io/bitdotio/noaa-global-co2-trends?utm_source=github&utm_medium=social&utm_campaign=noaa-global-co2-trends) (Added September 1, 2022)
 
-#### United States
-
 ### Health
 #### Global
 - [World Health Organization Tobacco Use Data](https://bit.io/bitdotio/who_tobacco_use?utm_source=github&utm_medium=social&utm_campaign=publicdata-who-tobacco-use) (Added July 14, 2022)
