@@ -64,11 +64,11 @@ ___
 - [Partisal Electoral Interventions by the Great Powers](https://bit.io/bitdotio/peig?utm_source=github&utm_medium=social&utm_campaign=publicdata-peig) (Added July 13, 2022)
 - [G7 Countries' Global Data Barometer Report (May 2019 - May 2021)](https://bit.io/bitdotio/g7-data-barometer?utm_source=github&utm_medium=social&utm_campaign=g7-data-barometer) (Added July 27, 2022)
 - [Oil, Gas and Mining Payments to Governments Made by Companies](https://bit.io/bitdotio/nat_resource_payments?utm_source=github&utm_medium=social&utm_campaign=nat_resource_payments) (October 7, 2022)
-- [Total Trend-Indicator Value (TIV) of a Country or Rebel Group's Arms Imports or Exports, 1950-2021](https://bit.io/bitdotio/pubdata200) (October 21, 2022)
-- [Peace Research Institute Oslo (PRIO) Battledeaths Dataset](https://bit.io/bitdotio/pubdata199) (October 21, 2022)
-- [UCDP/PRIO Armed Conflict Dataset, 1946-2021](https://bit.io/bitdotio/pubdata97) (October 21, 2022)
-- [The Armed Conflict Location & Event Data Project (ACLED)](https://bit.io/bitdotio/pubdata198) (October 21, 2022)
-- [Interstate War Data 1816-2019 (v1.2)](https://bit.io/bitdotio/pubdata98) (October 21, 2022)
+- [Total Trend-Indicator Value (TIV) of a Country or Rebel Group's Arms Imports or Exports, 1950-2021](https://bit.io/bitdotio/sipri_arms_imp_exp?utm_source=github&utm_medium=social&utm_campaign=sipri_arms_imp_exp) (October 21, 2022)
+- [Peace Research Institute Oslo (PRIO) Battledeaths Dataset](https://bit.io/bitdotio/prio_battle_deaths?utm_source=github&utm_medium=social&utm_campaign=prio_battle_deaths) (October 21, 2022)
+- [UCDP/PRIO Armed Conflict Dataset, 1946-2021](https://bit.io/bitdotio/prio_armed_conflict?utm_source=github&utm_medium=social&utm_campaign=prio_armed_conflict) (October 21, 2022)
+- [The Armed Conflict Location & Event Data Project (ACLED)](https://bit.io/bitdotio/acled_conflict_loc?utm_source=github&utm_medium=social&utm_campaign=acled_conflict_loc) (October 21, 2022)
+- [Interstate War Data 1816-2019 (v1.2)](https://bit.io/bitdotio/interstate_war?utm_source=github&utm_medium=social&utm_campaign=interstate_war) (October 21, 2022)
 
 ### Population Statistics
 #### United States
