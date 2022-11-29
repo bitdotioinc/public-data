@@ -4,8 +4,12 @@ ___
 
 ## Topics
 ### Economy & Business
+#### Global
+- [World Income Inequality Data version 4 (WIID4)](https://bit.io/bitdotio/unu_wider_wiid4?utm_source=github&utm_medium=social&utm_campaign=unu_wider_wiid4) (November 17, 2022)
+- [World Inequality Database](https://bit.io/bitdotio/world_inequality_db?utm_source=github&utm_medium=social&utm_campaign=world_inequality_db) (November 17, 2022)
 #### United States Economy
 - [U.S. Department of Agriculture Economic Research Service County Typology Codes](https://bit.io/bitdotio/county_typology_codes?utm_source=github&utm_medium=social&utm_campaign=publicdata-county-typology) (Added June 27, 2022)
+- [Annual Social and Economic Supplements 2022](https://bit.io/bitdotio/us_census_asec) (November 17, 2022)
 - [U.S. Treasury-Owned Gold (January 2012 - June 2022)](https://bit.io/bitdotio/us-treasury-gold?utm_source=github&utm_medium=social&utm_campaign=us-treasury-gold) (Added July 27, 2022)
 - [Housing Vacancies and Homeownership (CPS/HVS) for the 75 Largest Metropolitan Statistical Areas: 2015 - 2021](https://bit.io/bitdotio/census-housing-vacancy?utm_source=github&utm_medium=social&utm_campaign=census-housing-vacancy) (Added July 26, 2022)
 - [U.S. Historical Debt Outstanding (1790-2021)](https://bit.io/bitdotio/us-historical-debt?utm_source=github&utm_medium=social&utm_campaign=us-historical-debt) (Added July 28, 2022)
@@ -21,7 +25,7 @@ ___
 - [Net U.S. Acquisition of Financial Assets Excluding Financial Aerivatives (Net Increase in Assets / Financial Outflow (+)) 1991-2021](https://bit.io/bitdotio/bea_financial_assets?utm_source=github&utm_medium=social&utm_campaign=bea_financial_assets) (Added August 29, 2022)
 - [U.S. Exports and Imports of Goods and Services (1999-2021)](https://bit.io/bitdotio/bea_imports_exports?utm_source=github&utm_medium=social&utm_campaign=bea_imports_exports) (Added September 1, 2022)
 - [Tracking Paycheck Protection Program (PPP): Companies Approved for Federal Loans](https://bit.io/bitdotio/sba_ppp_loans?utm_source=github&utm_medium=social&utm_campaign=sba_ppp_loans) (Added September 1, 2022)
-- [US State Government Tax Collections (1902-2021)](https://bit.io/bitdotio/us-state-taxes?utm_source=github&utm_medium=social&utm_campaign=us-state-taxes) (Added September 1, 2022)
+- [U.S. State Government Tax Collections (1902-2021)](https://bit.io/bitdotio/us-state-taxes?utm_source=github&utm_medium=social&utm_campaign=us-state-taxes) (Added September 1, 2022)
 
 #### Business
 - [CEO Dismissals](https://bit.io/bitdotio/ceo_dismissals?utm_source=github&utm_medium=social&utm_campaign=publicdata-ceo-dismissals) (Added July 18, 2022)
