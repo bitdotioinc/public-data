@@ -36,6 +36,9 @@ ___
 #### Global
 - [Atmospheric CO2 over the Past 800,000 years](https://bit.io/bitdotio/noaa-historical-co2?utm_source=github&utm_medium=social&utm_campaign=noaa-historical-co2) (Added September 1, 2022)
 - [Daily, Monthly, and Annual Average Atmospheric CO2 Concentrations](https://bit.io/bitdotio/noaa-global-co2-trends?utm_source=github&utm_medium=social&utm_campaign=noaa-global-co2-trends) (Added September 1, 2022)
+- [GISS Surface Temperature Analysis (GISTEMP v4)](https://bit.io/bitdotio/pubdata100) (Added December 7, 2022)
+- [U.S Climate at a Glance](https://bit.io/bitdotio/pubdata101) (Added December 7, 2022)
+- [Climate Change Indicators in the United States: Oceans](https://bit.io/bitdotio/pubdata102) (Added December 7, 2022)
 
 #### United States
 - [Spatial Wildfire Occurrence Data for the United States, 1992-2018](https://bit.io/bitdotio/us_wildfires_spatial?utm_source=github&utm_medium=social&utm_campaign=us_wildfires_spatial) (Added October 5, 2022)
