@@ -39,7 +39,7 @@ ___
 - [GISS Surface Temperature Analysis (GISTEMP v4)](https://bit.io/bitdotio/pubdata100) (Added December 7, 2022)
 - [U.S Climate at a Glance](https://bit.io/bitdotio/pubdata101) (Added December 7, 2022)
 - [Climate Change Indicators in the United States: Oceans](https://bit.io/bitdotio/pubdata102) (Added December 7, 2022)
-- [Morphological Consequences of Climate Change for Resident Birds in Intact Amazonia](https://bit.io/bitdotio/pubdata103)
+- [Morphological Consequences of Climate Change for Resident Birds in Intact Amazonia](https://bit.io/bitdotio/pubdata103) (Added December 7, 2022)
 
 #### United States
 - [Spatial Wildfire Occurrence Data for the United States, 1992-2018](https://bit.io/bitdotio/us_wildfires_spatial?utm_source=github&utm_medium=social&utm_campaign=us_wildfires_spatial) (Added October 5, 2022)
