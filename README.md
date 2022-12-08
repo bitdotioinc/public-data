@@ -37,8 +37,7 @@ ___
 - [Atmospheric CO2 over the Past 800,000 years](https://bit.io/bitdotio/noaa-historical-co2?utm_source=github&utm_medium=social&utm_campaign=noaa-historical-co2) (Added September 1, 2022)
 - [Daily, Monthly, and Annual Average Atmospheric CO2 Concentrations](https://bit.io/bitdotio/noaa-global-co2-trends?utm_source=github&utm_medium=social&utm_campaign=noaa-global-co2-trends) (Added September 1, 2022)
 - [GISS Surface Temperature Analysis (GISTEMP v4)](https://bit.io/bitdotio/pubdata100) (Added December 7, 2022)
-- [U.S Climate at a Glance](https://bit.io/bitdotio/pubdata101) (Added December 7, 2022)
-- [Climate Change Indicators in the United States: Oceans](https://bit.io/bitdotio/pubdata102) (Added December 7, 2022)
+- [Fire Radiative Power and Active Fire Pixels From 2020 to Present Derived From Satellite Observations](https://bit.io/bitdotio/pubdata104) (Added December 7, 2022)
 - [Morphological Consequences of Climate Change for Resident Birds in Intact Amazonia](https://bit.io/bitdotio/pubdata103) (Added December 7, 2022)
 
 #### United States
@@ -46,6 +45,8 @@ ___
 - [Total Wildland Fires and Burn By Acres (1983-2021)](https://bit.io/bitdotio/nifc_wildfire_acres?utm_source=github&utm_medium=social&utm_campaign=nifc_wildfire_acres) (Added October 5, 2022)
 - [WFIGS - 2022 Wildland Fire Locations to Date](https://bit.io/bitdotio/wfigs_fire_locations?utm_source=github&utm_medium=social&utm_campaign=wfigs_fire_locations) (Added October 5, 2022)
 - [U.S. Fire Perimeter Data](https://bit.io/bitdotio/nifc_fire_perimeter?utm_source=github&utm_medium=social&utm_campaign=nifc_fire_perimeter) (Added October 5, 2022)
+- [U.S Climate at a Glance](https://bit.io/bitdotio/pubdata101) (Added December 7, 2022)
+- [Climate Change Indicators in the United States: Oceans](https://bit.io/bitdotio/pubdata102) (Added December 7, 2022)
 
 ### Health
 #### Global
