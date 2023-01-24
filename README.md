@@ -31,6 +31,10 @@ ___
 - [CEO Dismissals](https://bit.io/bitdotio/ceo_dismissals?utm_source=github&utm_medium=social&utm_campaign=publicdata-ceo-dismissals) (Added July 18, 2022)
 - [Where College Grads Go: Measuring College-Specific Labor Markets for Graduates (2010-2018)](https://bit.io/bitdotio/grads-on-the-go?utm_source=github&utm_medium=social&utm_campaign=grads-on-the-go) (Added July 22, 2022)
 - [Employment Change in the U.S from 1993 until 2021: Categorized Based on Educational Attainment](https://bit.io/bitdotio/qwi-employment-edu?utm_source=github&utm_medium=social&utm_campaign=qwi-employment-edu) (Added August 4, 2022)
+- [Venture Studio Index](https://bit.io/bitdotio/pubdata106) (Added January 24, 2023)
+- [Forbes' Top 25 Next Billion Dollar Startups 2022](https://bit.io/bitdotio/pubdata109) (Added January 24, 2023)
+- [START-UP NY Tax-Free Area Locations](https://bit.io/bitdotio/pubdata107) (Added January 24, 2023)
+- [LinkedIn's Top 50 U.S. Startups](https://bit.io/bitdotio/pubdata108) (Added January 24, 2023)
 
 ### Environment and Climate
 #### Global
