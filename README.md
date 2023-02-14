@@ -94,3 +94,6 @@ ___
 - [U.S. Public and Private Alternative Fueling Stations by Fuel Type (1992-2021)](https://bit.io/bitdotio/afdc-fueling-stations?utm_source=github&utm_medium=social&utm_campaign=afdc-fueling-stations) (Added August 8, 2022)
 - [Tesla Crashes (2013-2020)](https://bit.io/bitdotio/pubdata90) (Added February 15, 2022)
 - [Tesla Recalls](https://bit.io/bitdotio/pubdata99) (Added February 15, 2022)
+- [Fatality Analysis Reporting System (FARS): Vehicles Involved in Fatal Crashes and Total Fatal Crashes](https://bit.io/bitdotio/pubdata96) (Added February 15, 2022)
+- [Summary Automotive Trends Data: Fuel Economy, CO2, and Vehicle Attributes 1975-2022](https://bit.io/bitdotio/pubdata95) (Added February 15, 2022)
+- [U.S. Automobile Profile](https://bit.io/bitdotio/pubdata94) (Added February 15, 2022)
